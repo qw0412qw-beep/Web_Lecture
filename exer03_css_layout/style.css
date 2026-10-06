@@ -1,0 +1,17 @@
+/* container_01이 부모 속성 */
+.container_01{
+    overflow: hidden;
+}
+
+/* item_01이 자식 속성 */
+.item_01{
+    float: left;
+    margin: 0 3px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.margin_02{
+    margin:0 auto;
+    width:500px;
+}

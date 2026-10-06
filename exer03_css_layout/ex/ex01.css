@@ -1,0 +1,30 @@
+.header{
+    overflow:hidden;
+}
+
+.ex01_container_01{
+    overflow:hidden;
+}
+
+.ex01_item_01{
+    float: left;
+    margin: 0 3px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.menu{
+    overflow:hidden;
+
+}
+
+.menu_item{
+    float:right;
+    padding: 5px;
+}
+
+.footer{
+    margin:0 auto;
+    width:500px;
+
+}
